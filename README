@@ -1,0 +1,5 @@
+A1 includes topics like performance with matrix multiplication, dead lock, dining philosopher's problem and Amdahl's law.
+
+A2 includes topics like filter lock, bakery lock, mutex, sequentially consistence, linearizability, MRSW & SRSW registers and atomic registers.
+
+A3 includes CLHLock, bounded lock-based queue and matix vector multiplication. 
